@@ -1,0 +1,6 @@
+1. 
+SELECT * FROM `Cars` ORDER BY Price DESC LIMIT 1; 
+2.
+SELECT Id, Model, Type, MAX(Price) FROM Cars; 
+
+

@@ -1,0 +1,10 @@
+1.
+git clone git@github.com:project_one var/www/projects
+2.
+git cherry-pick -e 63162ea
+3.
+git stash save "Наработки"
+4.
+git merge otherFeature
+5.
+git restore filename
